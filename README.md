@@ -1,5 +1,5 @@
 # KillerComet
- BASIC type in listing in back of VIC 20 manual.
+ BASIC type in listing in back of VIC 20 manual by DUANE LATER.
 
 For the unexpanded Commodore Vic 20.
 
